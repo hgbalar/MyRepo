@@ -9,5 +9,6 @@
 <body>
 <%=request.getParameter("fname") %>
 <%=request.getParameter("lname") %>
+This stage test
 </body>
 </html>
