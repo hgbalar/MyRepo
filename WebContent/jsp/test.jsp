@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<%=request.getParameter("fname") %>
-<%=request.getParameter("lname") %>
+<%=request.getParameter("fname")%>
+<%=request.getParameter("lname")%>
 </body>
 </html>
